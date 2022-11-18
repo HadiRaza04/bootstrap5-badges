@@ -1,0 +1,9 @@
+.container-fluid {
+    text-align: center;
+}
+.container #heading1 {
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+}
